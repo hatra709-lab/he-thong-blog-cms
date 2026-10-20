@@ -7,3 +7,5 @@ certs/*.crt
 
 *.bak
 docker-compose.yml.before-*
+
+nginx/*.before-*
